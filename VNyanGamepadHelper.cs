@@ -14,7 +14,7 @@ namespace VNyanGamepadHelper
         public string Version { get; } = "1.0";
         public string Title { get; } = "VNyan Gamepad Helper";
         public string Author { get; } = "Lunazera";
-        public string Website { get; } = "NA";
+        public string Website { get; } = "https://github.com/Lunazera/VNyanGamepadHelper";
 
         private string pluginActiveParamName = "VNGHActive";
         public bool pluginActive = false;
